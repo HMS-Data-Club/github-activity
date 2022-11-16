@@ -1,4 +1,7 @@
-Name: The Squealing Pig
+# The Squealing Pig
+
 Cuisine: pub food
+
 Rating: <span style="color:yellow">★★★★☆</span>.
-Comment: 
+
+Comment: Good beer selection, descent food, can get busy. 
