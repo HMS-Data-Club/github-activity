@@ -6,3 +6,4 @@
 | _Ursus americanus_    | American black bear | 4 | <span style="color:yellow">__3.13/10__</span> | Significantly less cool than Grizzly Bears. Needs work. |
 | _Vulpes lagopus_ | Arctic Fox | 4 | <span style="color:yellow">__6.78/10__</span> | Super cute on picture. Hard to spot. |
 | _Oryctolagus cuniculus_ | Rabbit | 4 | <span style="color:yellow">__3.80/10__</span> | Super cute in family. Easy to raise. |
+| _Canis lupus familiaris_ | Schnauzer | 4 | <span style="color:grey">__6.78/10__</span> | Super cute on picture. Hard to spot. |
