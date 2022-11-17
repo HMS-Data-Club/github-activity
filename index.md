@@ -12,6 +12,12 @@ This is a website which logically displays reviews for animals and restaurants i
 
 - [The Squealing Pig](restaurants/the_squealing_pig.md)
 
+
+### Asian
+
+- [TBaar](restaurants/tbaar.md)
+
+
 ## Animals
 
 All animals can be found in [this table](animals/animal_reviews.md)
