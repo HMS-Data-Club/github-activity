@@ -8,6 +8,8 @@ This is a website which logically displays reviews for animals and restaurants i
 
 ## Restaurants
 
+### Pub Food
+
 - [The Squealing Pig](restaurants/the_squealing_pig.md)
 
 ## Animals
