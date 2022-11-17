@@ -2,6 +2,6 @@
 
 Cuisine: pub food
 
-Rating: <span style="color:yellow">★★★★☆</span>.
+Rating: <span style="color:gold">★★★★☆</span>.
 
 Comment: Good beer selection, descent food, can get busy. 
