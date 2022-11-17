@@ -16,7 +16,7 @@ This is a website which logically displays reviews for animals and restaurants i
 ### Asian
 
 - [TBaar](restaurants/tbaar.md)
-
+-[The Thai](restaurants/the_Thai.md)
 
 ## Animals
 
