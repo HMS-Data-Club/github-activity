@@ -1,6 +1,10 @@
 # Reviews
 
-This is a website which definitely logically displays reviews for animals and restaurants in the Longwood area. 
+This is a website which logically displays reviews for animals and restaurants in the Longwood area. 
+
+## Activity Instructions
+
+[Access instructions here](instructions.md)
 
 ## Restaurants
 
